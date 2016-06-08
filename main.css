@@ -35,7 +35,7 @@ body {
 	padding-right: 0px;
 	width: 310px;
 	margin-left: 11px;
-	padding-top: 13px;
+	padding-top: 11px;
 }
 
 .image-footer::before {
@@ -46,7 +46,7 @@ body {
     border: 8px solid transparent;
     border-top-color: #cacaca;
     position: absolute;
-    right: 7px;
+    right: 3px;
     top: -3px;
     padding-bottom: 10px;
 }
