@@ -30,12 +30,12 @@ body {
 
 .image-footer {
 	position: relative;
-	padding-bottom: 25px;
 	border-bottom: solid #C9CAD3 1px;
-	padding-right: 0px;
 	width: 310px;
 	margin-left: 11px;
-	padding-top: 11px;
+	padding-right: 0px;
+	padding-top: 7px;
+	padding-bottom: 25px;
 }
 
 .image-footer::before {
@@ -43,7 +43,7 @@ body {
 	display: block;
     height: 0;
     width: 0;
-    border: 8px solid transparent;
+    border: 6px solid transparent;
     border-top-color: #cacaca;
     position: absolute;
     right: 3px;
@@ -70,6 +70,7 @@ body {
 	float: right;
 	padding-left: 25px;
 	padding-right: 0px;
+	line-height: 20px;
 }
 
 .image-caption a {
