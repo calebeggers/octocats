@@ -26,6 +26,7 @@ body {
 	margin-right: 7.5px;
 	padding: 10px;
 	border: solid #C9CAD3 1px;
+	border-radius: 2px; 
 }
 
 .image-footer {
@@ -64,6 +65,7 @@ body {
 	margin: 0px;
 	padding: 0px;
 	border: 0px;
+	border-radius: 2px;
 }
 
 .image-caption {
