@@ -90,3 +90,7 @@ body {
 	content: "#";
 	color: #cacaca;
 }
+
+.image-caption a:hover {
+	text-decoration: underline;
+}
